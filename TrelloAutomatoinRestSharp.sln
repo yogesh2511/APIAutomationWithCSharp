@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrelloAutomatoinRestSharp", "TrelloAutomatoinRestSharp\TrelloAutomatoinRestSharp.csproj", "{DC30B6AF-8CB6-41E1-AF4B-D9F0D3249DEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecflowDemo", "SpecflowDemo\SpecflowDemo.csproj", "{78423816-3DA8-48FC-A3D6-37DE058BF3F2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Feature", "Feature", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Hooks", "Hooks", "{19CF8E1A-0D72-4DE8-9CA2-D8C97B94AFB4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC30B6AF-8CB6-41E1-AF4B-D9F0D3249DEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC30B6AF-8CB6-41E1-AF4B-D9F0D3249DEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC30B6AF-8CB6-41E1-AF4B-D9F0D3249DEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC30B6AF-8CB6-41E1-AF4B-D9F0D3249DEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78423816-3DA8-48FC-A3D6-37DE058BF3F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78423816-3DA8-48FC-A3D6-37DE058BF3F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78423816-3DA8-48FC-A3D6-37DE058BF3F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78423816-3DA8-48FC-A3D6-37DE058BF3F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6D8E4E3-2CEE-4363-AB37-DB7353ADD28B}
+	EndGlobalSection
+EndGlobal
